@@ -1,12 +1,12 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:kth-ii1302-vt22-group-3/web.git
-  branch = main
+	branch = main
 [submodule "api"]
 	path = api
 	url = git@github.com:kth-ii1302-vt22-group-3/api.git
-  branch = main
+  	branch = main
 [submodule "iot"]
 	path = iot
 	url = git@github.com:kth-ii1302-vt22-group-3/iot.git
-  branch = main
+  	branch = main
