@@ -24,6 +24,9 @@ The planner can be found here: [GitHub Project Planner](https://github.com/orgs/
 6. Repeat 2-5 until no tasks are left.
 7. After adding all tasks move a task to their fitted sprint.
 
+![Git graph - Project planner list](https://user-images.githubusercontent.com/25460850/160890323-6ea8b209-047e-4557-a9ac-bcd8d4ea1cea.png)
+The image can be found here in [LucidChart](https://lucid.app/lucidchart/d2b1a6c5-9a32-4d96-a6b5-a33ea3bd20d2/edit?invitationId=inv_49ced18d-1418-42e7-ad07-44db75795566). 
+Click on the image to open it on a tab for zooming.
 
 ## Project Planner List
 **PRIVATE USE**  
