@@ -82,6 +82,10 @@ The template for how to write a git commit is:
 $ git commit -m "#<issue-number>: <short-description>"
 $ git push -u origin <branch-name>
 ```
+![Git graph - Git (2)](https://user-images.githubusercontent.com/25460850/160898740-2040d32e-f1c4-4570-959c-4a566960c2ab.png)
+
+The image can be found here in [LucidChart](https://lucid.app/lucidchart/d2b1a6c5-9a32-4d96-a6b5-a33ea3bd20d2/edit?invitationId=inv_49ced18d-1418-42e7-ad07-44db75795566). 
+Click on the image to open it on a tab for zooming.
 
 ## GitHub Pull-requests
 Creating a pull request is essential as it will allow members to check and verify the integration of worked tasks.
