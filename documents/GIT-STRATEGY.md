@@ -48,6 +48,10 @@ Here is an example of how to create a branch:
 $ git branch arifjehoh-feature-13
 $ git checkout arifjehoh-feature-13
 ```
+![Git graph - Git (1)](https://user-images.githubusercontent.com/25460850/160895734-37f6689a-3712-4618-bdac-85d53f3ce695.png)
+
+The image can be found here in [LucidChart](https://lucid.app/lucidchart/d2b1a6c5-9a32-4d96-a6b5-a33ea3bd20d2/edit?invitationId=inv_49ced18d-1418-42e7-ad07-44db75795566). 
+Click on the image to open it on a tab for zooming.
 
 ### Git Commit 
 The git commit will be used to make it easier to document the work and workflow done.
