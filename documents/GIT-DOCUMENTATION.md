@@ -11,6 +11,11 @@ The planner can be found here: [GitHub Project Planner](https://github.com/orgs/
 4. Assign yourself to the task.
 
 
+![Git graph - Current sprint list](https://user-images.githubusercontent.com/25460850/160890919-f8448f78-203f-45da-9ca8-96cf5d43779a.png)
+The image can be found here in [LucidChart](https://lucid.app/lucidchart/d2b1a6c5-9a32-4d96-a6b5-a33ea3bd20d2/edit?invitationId=inv_49ced18d-1418-42e7-ad07-44db75795566). 
+Click on the image to open it on a tab for zooming.
+
+
 ### Group Workflow
 1. Go to [Project Planner List](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/2).
 2. Add tasks under **Product Backlog**.
