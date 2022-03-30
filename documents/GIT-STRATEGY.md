@@ -94,10 +94,13 @@ The pull request acts as a bottleneck for stopping lousy code from being impleme
 <!-- Take a screenshot of how to work with GitHub pull-request -->
 
 A good structure for creating a pull request is to write documentation of what kind of tasks you have been working on and that you have solved.
-1. Follow the naming convention of how to write a pull request. 
+1. Follow the naming convention of how to write a pull request. Naming convention: `#<issue-number>: <message>`
 2. Create a list of the solved tasks. 
 3. Add the requirements to test the work if needed.
 3. Assign yourself to the pull request.
 4. Assing other members to verify your code. 
 5. Wait for someone to approve your changes. 
 6. Merge upon approved changes.
+
+### Example of how to structure a pull-request
+![Git graph - Git (3)](https://user-images.githubusercontent.com/25460850/160900552-61b2f031-150a-409b-9f05-72959ca87cad.png)
