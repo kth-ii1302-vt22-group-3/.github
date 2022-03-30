@@ -71,6 +71,7 @@ This page display task you have been assigned to.
 This page will mostly have a 'drafted' task and an 'issue' task. 
 - **Drafted** tasks are tasks with a hollow and striped circle. This task is not linked to a repository.
 - **Issue** tasks are filled circle with a dot. This task is linked to a repository.
+![image](https://user-images.githubusercontent.com/25460850/160891173-79b6ff2b-9be5-4b21-9440-89072af229d9.png)
 
 
 ## Stories Table
