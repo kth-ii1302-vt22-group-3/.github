@@ -15,10 +15,10 @@ The planner can be found here: [GitHub Project Planner](https://github.com/orgs/
 1. Go to [Project Planner List](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/2).
 2. Add tasks under **Product Backlog**.
 3. Add a story.
-  1. Go to [Stories Table](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/5).
-  2. Click on the plus sign on the top right at the last column, which will add a new column that can enter the User story name.
-  3. Go back to **Project Planner List**.
-  4. Add the newly-created story.
+   1. Go to [Stories Table](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/5).
+   2. Click on the plus sign on the top right at the last column, which will add a new column that can enter the User story name.
+   3. Go back to **Project Planner List**.
+   4. Add the newly-created story.
 4. Add points.
 5. Add total hours.
 6. Repeat 2-5 until no tasks are left.
