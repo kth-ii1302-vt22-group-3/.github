@@ -4,11 +4,15 @@ The planner can be found here: [GitHub Project Planner](https://github.com/orgs/
 
 ## Workflow
 
-### Individual Workflow
+### Individual Workflow during sprint
 1. Go to [Current sprint table](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/6).
-2. Look at the **No Assignees** category.
-3. Find a task that you want to work on.
-4. Assign yourself to the task.
+2. Look at the **Sprint backlog** category.
+3. Find a task that you want to work on and move it to the **Checked out** column.
+4. Assign yourself to the task in the [Current sprint list](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/5).
+5. When you have completed the task, move it to the **Test** column, waiting for completion test.
+6. When the test has been passed the task can be moved to **Done** column.
+7. Repeat steps 1-6 until all tasks related to a story has been moved to the **Done** column.
+8. Move the story to the **Done** column.
 
 
 ![Git graph - Current sprint list](https://user-images.githubusercontent.com/25460850/160890919-f8448f78-203f-45da-9ca8-96cf5d43779a.png)
@@ -17,17 +21,23 @@ Click on the image to open it on a tab for zooming.
 
 
 ### Group Workflow
+Adding a story:
 1. Go to [Project Planner List](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/2).
-2. Add tasks under **Product Backlog**.
+2. Add stories under **Product Backlog**.
 3. Add a story.
    1. Go to [Stories Table](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/5).
-   2. Click on the plus sign on the top right at the last column, which will add a new column that can enter the User story name.
+   2. Click on the plus sign on the top right at the last column, which will add a new column that can enter the Story name.
    3. Go back to **Project Planner List**.
-   4. Add the newly-created story.
-4. Add points.
-5. Add total hours.
-6. Repeat 2-5 until no tasks are left.
-7. After adding all tasks move a task to their fitted sprint.
+   4. Add the newly-created story. (This is for referencing tasks to the story)
+4. Add points. (Optional)
+5. Add total hours. (Optional)
+6. The story should now have been added to the product backlog.
+
+During the Sprint planning meeting stories are moved the current sprint. When a story has been moved to a sprint, add the assosciated tasks:
+1. Go to [Project Planner List](https://github.com/orgs/kth-ii1302-vt22-group-3/projects/4/views/2).
+2. Click on the plus sign "Add item" to add the task in the current sprint (lowercase letters for tasks).
+3. In the Story column, select the story to which the task is assosciated.
+4. Redo steps 1-3 until all required tasks are created for the story.
 
 ![Git graph - Project planner list](https://user-images.githubusercontent.com/25460850/160890323-6ea8b209-047e-4557-a9ac-bcd8d4ea1cea.png)
 The image can be found here in [LucidChart](https://lucid.app/lucidchart/d2b1a6c5-9a32-4d96-a6b5-a33ea3bd20d2/edit?invitationId=inv_49ced18d-1418-42e7-ad07-44db75795566). 
