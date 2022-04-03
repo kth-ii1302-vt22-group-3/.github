@@ -10,3 +10,7 @@
 	path = iot
 	url = git@github.com:kth-ii1302-vt22-group-3/iot.git
   	branch = main
+[submodule "end-report"]
+	path = end-report
+	url = git@github.com:kth-ii1302-vt22-group-3/report.git
+	branch = main
