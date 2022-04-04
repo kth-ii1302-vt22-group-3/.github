@@ -1,18 +1,23 @@
-# Test case
+# Test case documentation
 
-<!-- <issue number>: <issue-name> -->
-## #NN: Example User case
+## Test-Case-name (CHANGE ME)
 
-## Test data
-- Some data
+## Purpose
+- (CHANGE ME) This some random text
 
-## Preparation
-- Some preperation
+## Specifications
 
-## Test steps
-1. One
-2. Two
-3. Four
+### Prerequisite 
+- (**CHANGE ME**) This is some random specifications
+
+### Input specifications
+- (**CHANGE ME**) This is some random specifications
+
+### Output specifications
+- (**CHANGE ME**) This is some random specifications
+
+## Instructions steps
+1. (**CHANGE ME**) TRIGGER INSTRUCTIONS
 
 ## Expected result
-- Some expected result
+- (**CHANGE ME**) Change to expected result
