@@ -1,10 +1,13 @@
 # README
-Read about the project
 
-To download all the submodule run this code.
-```bash
-git clone --recurse-submodules git@github.com:kth-ii1302-vt22-group-3/README.git
-```
+## Project repositories
+- [IOT](https://github.com/kth-ii1302-vt22-group-3/iot)
+- [API](https://github.com/kth-ii1302-vt22-group-3/api)
+- [WEB](https://github.com/kth-ii1302-vt22-group-3/web)
+- [FINAL REPORT](https://github.com/kth-ii1302-vt22-group-3/report)
+
+
+## Software project
 
 ## Contributors
 Arif Jehda-Oh ([arifjehoh](https://github.com/arifjehoh/))  
