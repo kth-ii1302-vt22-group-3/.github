@@ -24,9 +24,8 @@
 
 
 ## Contributors
-Arif Jehda-Oh ([arifjehoh](https://github.com/arifjehoh/))  
-Gustav Normelli ([gnormelli](https://github.com/gnormelli/))  
-Natasha Donner ([Natashlab](https://github.com/Natashlab/))  
-Jesper Jansson ([PalmerEldritch](https://github.com/PalmerEldritch/))  
-Wilhelm Nordgren ([WilleNord](https://github.com/WilleNord/))  
-Caroline Gross Liljenström ([carrogross](https://github.com/carrogross))
+| <img src="https://avatars.githubusercontent.com/u/25460850?v=4" alt="Arif Jedhda-Oh" width="100px"> 	| <img src="https://avatars.githubusercontent.com/u/74051172?v=4" alt="Caroline Gross Liljenström" width="100px"> 	|  <img src="https://avatars.githubusercontent.com/u/70812864?v=4" alt="Gustav Normelli" width="100px"> 	|
+|:---------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------:	|
+|                      Arif Jehda-Oh ([arifjehoh](https://github.com/arifjehoh/))                     	|                     Caroline Gross Liljenström ([carrogross](https://github.com/carrogross))                    	|                      Gustav Normelli ([gnormelli](https://github.com/gnormelli/))                     	|
+| <img src="https://avatars.githubusercontent.com/u/70322257?v=4" alt="Jesper Jansson" width="100px"> 	|       <img src="https://avatars.githubusercontent.com/u/71009011?v=4" alt="Natasha Donner" width="100px">       	| <img src="https://avatars.githubusercontent.com/u/79633739?v=4" alt="Wilhelm Nordgren" width="100px"> 	|
+|                Jesper Jansson ([PalmerEldritch](https://github.com/PalmerEldritch/))                	|                           Natasha Donner ([Natashlab](https://github.com/Natashlab/))                           	|                     Wilhelm Nordgren ([WilleNord](https://github.com/WilleNord/))                     	|
