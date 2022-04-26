@@ -1,5 +1,6 @@
 # README
 
+
 ## Project repositories
 - [IOT](https://github.com/kth-ii1302-vt22-group-3/iot)
 - [API](https://github.com/kth-ii1302-vt22-group-3/api)
@@ -8,6 +9,7 @@
 
 
 ## Pages
+- [KTH Canvas page](https://canvas.kth.se/groups/188022/wiki)
 - [Vision](https://docs.google.com/document/d/1OBW36KN6-4BQBYUhIrJsCLajsyaiZiV4/view)
 - [Project Definition](https://docs.google.com/document/d/1gtGhOxMrKwFvkH-K6jAIPi4teC56Vkbc/view)
 - [Architecture Description](https://docs.google.com/document/d/1qWxlf8CZSOI9WPIOUhRl00hWqatTVfmSBeloUjv8gbQ/edit?usp=sharing)
